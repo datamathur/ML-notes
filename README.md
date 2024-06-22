@@ -45,3 +45,15 @@ In parametric methods, we make an assumption regarding the shape of the model $f
 
 2. <b><u>Non-Parametric Methods</u></b>
 Non-parametric methods donot make explicit assumptions to the functional form of $f$. Instead, they seek an estimation of $f$ that gets as close to the data points as possible without being too wiggly. 
+
+
+<h2>Important Resources</h2>
+
+1. [SciKit Learn User Guide](https://scikit-learn.org/stable/user_guide.html)
+2. [CS229: Machine Learning (Stanford)](https://cs229.stanford.edu/)
+3. [An Introduction to Statistical Learning (Gareth James, Daniela Witten, Trevor Hastie, and Robert Tibshirani)](https://www.statlearning.com/)
+4. [Elements of Statistical Learning (Trevor Hastie, Robert Tibshirani, and Jerome Friedman)](https://a.co/d/00ZSRH5f)
+5. [Introduction to Machine Learning (MIT)](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+6.036+1T2019/course/)
+6. [CS 189/289A: Introduction to Machine Learning](https://people.eecs.berkeley.edu/~jrs/189/)
+7. [Machine Learning: A Probabilistic Perspective (Kevin Murphy)](https://a.co/d/00pj6Emc)
+8. [Pattern Recognition and Machine Learning (Chris Bishop)](https://a.co/d/02BZItFS)

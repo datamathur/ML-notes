@@ -10,9 +10,9 @@ This is the personal ML knowledge base of <a href='https://github.com/datamathur
 <h2>ML Fundamentals</h2>
 
 
-```
-Machine Learning as a set of methods that can automatically detect patterns in data, and then use the uncovered patterns to predict future data, or to perform other kinds of decision making under uncertainty.
-```
+
+> Machine Learning as a set of methods that can automatically detect patterns in data, and then use the uncovered patterns to predict future data, or to perform other kinds of decision making under uncertainty.
+
 
 
 - We also define Machine Learning is defined is a computer program learns from experience E with respect to some task T, if its performance P while performing task T improves over E.

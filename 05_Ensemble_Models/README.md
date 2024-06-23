@@ -1,1 +1,1 @@
-# <center>Ensemble Models</center>
+<h1 align='center'>Ensemble Models</h1>

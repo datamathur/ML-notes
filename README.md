@@ -57,3 +57,4 @@ Non-parametric methods donot make explicit assumptions to the functional form of
 6. [CS 189/289A: Introduction to Machine Learning](https://people.eecs.berkeley.edu/~jrs/189/)
 7. [Machine Learning: A Probabilistic Perspective (Kevin Murphy)](https://a.co/d/00pj6Emc)
 8. [Pattern Recognition and Machine Learning (Chris Bishop)](https://a.co/d/02BZItFS)
+9. [Time series analysis with Python (Filippo Maria Bianchi a.k.a. FilippoMB)](https://filippomb.github.io/python-time-series-handbook/notebooks/00/intro.html)
